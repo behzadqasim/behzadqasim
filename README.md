@@ -1,6 +1,6 @@
-### Hey , I'm Behzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey , I'm Behzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## In short, Tech Enthusiast with passion of Full Stack Development!
+### In short, Tech Enthusiast with passion of Full Stack Development!
 - 🔭 I’m currently working on - Tensor Flow & Oracle
 - 🌱 I’m currently learning - Oracle
 - 💬 Ask me about - Anything 
