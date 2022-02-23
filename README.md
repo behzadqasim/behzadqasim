@@ -1,12 +1,9 @@
 ### Hey , I'm Behzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Your short description
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
-- 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+## In short, Tech Enthusiast with passion of Full Stack Development!
+- 🔭 I’m currently working on - Tensor Flow & Oracle
+- 🌱 I’m currently learning - Oracle
+- 💬 Ask me about - Anything 
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
