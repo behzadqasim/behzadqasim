@@ -21,5 +21,5 @@
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
 [twitter]: https://twitter.com/evil_since_2001
-[Whatsapp]: https://twitter.com/evil_since_2001
+[Whatsapp]: https://wa.link/esfps0
 [linkedin]: https://www.linkedin.com/in/behzad-qasim-0542b9208/
