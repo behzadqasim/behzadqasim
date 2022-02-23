@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
+
 **behzadqasim/behzadqasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
+With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.
+
+Let's connect!
+<!--
+      
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
