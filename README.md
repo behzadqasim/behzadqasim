@@ -1,7 +1,9 @@
 ## Hey , I'm Behzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
 With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.
-<!-- ### In short, Tech Enthusiast with passion of Full Stack Development! -->
+#### He is my friend 
+[<img align="center" alt="codeSTACKr | Twitter" width="100px" src="https://avatars.githubusercontent.com/u/99994684?v=4" />]
+
 
 ###                                         Connect with me:
 [<img align="center" alt="codeSTACKr.com" width="22px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1645605225~hmac=abbe111c5ff10d3cc61564a49b0b2b45" />][website]
