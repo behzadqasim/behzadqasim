@@ -14,7 +14,7 @@ With a rich coding experience along with great problem solving ability, I can he
 <br />
 
 <!-- This section you create this variables that are used above -->
-[website]: https://http://behzadqasim.me/
+[website]: http://www.behzadqasim.me/
 [gmail]: https://mail.google.com/mail/u/?authuser=getmetobehzad@gmail.com
 [twitter]: https://twitter.com/evil_since_2001
 [Whatsapp]: https://wa.link/esfps0
