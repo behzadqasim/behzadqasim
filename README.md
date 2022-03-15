@@ -10,7 +10,7 @@ With a rich coding experience along with great problem solving ability, I can he
 [<img align="center" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][gmail]
 [<img align="center" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />][twitter]
 [<img align="center" alt="Whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" />][Whatsapp]
-[<img align="center" alt="LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1645605273~hmac=80f2a7866e975c0b4f607f38522234b4" />][linkedin]
+[<img align="center" alt="LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647379494~hmac=f5add40ad67f95da469ef7c2bb0f8f01" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
