@@ -30,16 +30,16 @@
   <br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/>
+ 📧 &emsp; Reach me anytime: behzadqasim.dev@gmail.com<br/>
 </p>
-
+I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
+With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.
 <br/>
 <br/>
 <br/>
 
 ## Hey , I'm Behzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.
-With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.
+
 
 
 ###                                         Connect with me:
