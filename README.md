@@ -49,7 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- About Section -->
- # About me
+ ## About me
  
 <p>
  <img align="right" width="200" src="/programmer.gif" alt="Coding gif" />
