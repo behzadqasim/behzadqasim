@@ -19,6 +19,9 @@
  <a href="https://instagram.com/notexe.lol" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="behzad qasim" />
  </a> 
+  <a href="https://wa.link/esfps0" target="_blank">
+  <img src="https://img.shields.io/badge/Whatsapp-52dc16?style=for-the-badge&logo=whatsapp&logoColor=white" alt="behzad qasim" />
+ </a> 
 </p>
 <br />
 
