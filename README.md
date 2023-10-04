@@ -6,7 +6,13 @@
                 <b><a target="_blank" href="https://github.com/behzadqasim">Behzad Qasim</a></b>
         </samp>
 </h3>
-
+<p align="center"> 
+  <samp>
+    「 I am a Full Stack (Mern) Application developer from <b>Pakistan</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 <p align="center">
  <a href="https://linkedin.com/in/behzadqasim" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="behzad qasim"/>
