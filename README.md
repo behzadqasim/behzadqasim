@@ -8,7 +8,7 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a Full Stack (Mern) Application developer from <b>Pakistan</b> 」
+    「 I am a backend dev (was full stack) Application developer from <b>Pakistan</b> 」
     <br>
   </samp>
 </p>
